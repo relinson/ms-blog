@@ -1,9 +1,0 @@
-server.port=29001
-spring.application.name=ArticleService for test
-
-article.default.author=test
-article.default.mail=test@qq.com
-article.default.title=Developer Title from (${spring.application.name})
-
-
-

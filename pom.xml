@@ -93,5 +93,6 @@
 		<module>ServiceRegistry</module>
 		<module>ArticleService</module>
 		<module>ServiceArticle</module>
+		<module>Mobile</module>
 	</modules>
 </project>
